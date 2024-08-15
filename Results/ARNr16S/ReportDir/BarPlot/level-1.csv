@@ -1,0 +1,10 @@
+index,d__Bacteria,Unassigned,d__Eukaryota,d__Archaea,Codigo,Muestra,Datos,Barcode,Ficha,Fecha,Vaca,Cuarto
+IonXpress_022.fastq,121115.0,60.0,25.0,0.0,2,Muestra_clinica_2,S._aureus,22,184727,24_10_2022,8895,AD
+IonXpress_023.fastq,78387.0,165.0,124.0,0.0,4,Muestra_clinica_4,Sin_crecimiento,23,184727,24_10_2022,5909,AD
+IonXpress_024.fastq,47966.0,2.0,7.0,0.0,6,Muestra_clinica_6,S._aureus,24,184486,24_10_2022,1704,AI
+IonXpress_025.fastq,56620.0,25.0,4.0,0.0,8,Muestra_clinica_8,Sin_crecimiento,25,184486,24_10_2022,1705,AI
+IonXpress_026.fastq,9760.0,9.0,6.0,0.0,16,Muestra_clinica_16,St._dysgalactiae,26,184134,24_10_2022,4484,SD
+IonXpress_027.fastq,9544.0,0.0,1.0,13.0,17,Muestra_clinica_17,Contaminada,27,184552,24_10_2022,124,SD
+IonXpress_028.fastq,40872.0,3.0,0.0,56.0,18,Muestra_clinica_18,Contaminada,28,184552,24_10_2022,169,SD
+IonXpress_029.fastq,39568.0,26.0,0.0,0.0,19,Muestra_clinica_19,E._coli,29,184552,24_10_2022,173,SD
+IonXpress_030.fastq,28524.0,0.0,0.0,0.0,C+,Control_Mix_Cepas,E.coli_S.aureus_K.pneumo_S.agal,30,111111,24_10_2023,1,XX
