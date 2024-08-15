@@ -1,0 +1,7 @@
+Group 1,Group 2,H,p-value,q-value
+Contaminada (n=1),E._coli (n=1),1.0,0.31731050786291115,0.6346210157258223
+Contaminada (n=1),S._aureus (n=2),1.5,0.22067136191984324,0.6346210157258223
+Contaminada (n=1),Sin_crecimiento (n=2),1.5,0.22067136191984324,0.6346210157258223
+E._coli (n=1),S._aureus (n=2),0.0,1.0,1.0
+E._coli (n=1),Sin_crecimiento (n=2),0.0,1.0,1.0
+S._aureus (n=2),Sin_crecimiento (n=2),0.5999999999999996,0.43857802608099994,0.6578670391214999

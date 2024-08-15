@@ -1,0 +1,8 @@
+id	Datos	Ficha	Cuarto	faith_pd
+#q2:types	categorical	categorical	categorical	numeric
+IonXpress_022.fastq	S._aureus	184727	AD	22.085320855132
+IonXpress_023.fastq	Sin_crecimiento	184727	AD	34.3478178174722
+IonXpress_024.fastq	S._aureus	184486	AI	11.4363339100532
+IonXpress_025.fastq	Sin_crecimiento	184486	AI	12.5555167346368
+IonXpress_028.fastq	Contaminada	184552	SD	37.9295122842246
+IonXpress_029.fastq	E._coli	184552	SD	17.7844690948418
