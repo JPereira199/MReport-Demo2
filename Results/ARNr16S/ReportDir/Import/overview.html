@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>q2_demux : summarize</title>
+    <link rel="stylesheet" href="./q2templateassets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./q2templateassets/css/normalize.css"/>
+    <script src="./q2templateassets/js/jquery-3.2.0.min.js" charset="utf-8"></script>
+    <script src="./q2templateassets/js/child.js"></script>
+    
+    
+  </head>
+  <body>
+    <div class="container-fluid">
+        
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1>Demultiplexed sequence counts summary</h1>
+        <table border="0" class="dataframe table table-striped table-hover">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>forward reads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Minimum</th>
+      <td>14461</td>
+    </tr>
+    <tr>
+      <th>Median</th>
+      <td>57493.0</td>
+    </tr>
+    <tr>
+      <th>Mean</th>
+      <td>60969.666667</td>
+    </tr>
+    <tr>
+      <th>Maximum</th>
+      <td>145202</td>
+    </tr>
+    <tr>
+      <th>Total</th>
+      <td>548727</td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+</div>
+
+<div class="row">
+    
+        <div class="col-lg-6">
+            <h3>Forward Reads Frequency Histogram</h3>
+            <div class="text-center">
+                
+                    <a href="demultiplex-summary-forward.pdf">
+                        <img src="demultiplex-summary-forward.png">
+                        <p>Download as PDF</p>
+                    </a>
+                
+            </div>
+        </div>
+    
+        <div class="col-lg-6">
+            <h3>Reverse Reads Frequency Histogram</h3>
+            <div class="text-center">
+                
+                    <p>No reads in this direction</p>
+                
+            </div>
+        </div>
+    
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1>Per-sample sequence counts</h1>
+        <h4>
+            Total Samples:&nbsp;
+            
+                
+                    9 (forward)&nbsp;
+                
+            
+                
+            
+        </h4>
+        <table border="0" class="dataframe table table-striped table-hover">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>forward sequence count</th>
+    </tr>
+    <tr>
+      <th>sample ID</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>IonXpress_022.fastq</th>
+      <td>145202</td>
+    </tr>
+    <tr>
+      <th>IonXpress_023.fastq</th>
+      <td>97035</td>
+    </tr>
+    <tr>
+      <th>IonXpress_025.fastq</th>
+      <td>68652</td>
+    </tr>
+    <tr>
+      <th>IonXpress_028.fastq</th>
+      <td>59574</td>
+    </tr>
+    <tr>
+      <th>IonXpress_024.fastq</th>
+      <td>57493</td>
+    </tr>
+    <tr>
+      <th>IonXpress_029.fastq</th>
+      <td>51230</td>
+    </tr>
+    <tr>
+      <th>IonXpress_030.fastq</th>
+      <td>39322</td>
+    </tr>
+    <tr>
+      <th>IonXpress_026.fastq</th>
+      <td>15758</td>
+    </tr>
+    <tr>
+      <th>IonXpress_027.fastq</th>
+      <td>14461</td>
+    </tr>
+  </tbody>
+</table>
+        <a href="per-sample-fastq-counts.tsv">Download as TSV</a>
+    </div>
+</div>
+
+    </div>
+    
+    
+  </body>
+</html>
